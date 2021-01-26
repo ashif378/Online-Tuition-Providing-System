@@ -1,0 +1,65 @@
+[20-Oct-2019 17:32:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mirajkhan/public_html/providerdetails.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/mirajkhan/public_html/providerdetails.php on line 107
+[20-Oct-2019 17:32:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mirajkhan/public_html/tutor_post.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/mirajkhan/public_html/tutor_post.php on line 130
+[20-Oct-2019 17:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/mirajkhan/public_html/tutor_post.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/mirajkhan/public_html/tutor_post.php on line 130
+[20-Oct-2019 17:59:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[20-Oct-2019 17:59:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[20-Oct-2019 17:59:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[20-Oct-2019 17:59:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[20-Oct-2019 17:59:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mirajkhan/public_html/dbConfig.php on line 9
+[20-Oct-2019 17:59:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mirajkhan/public_html/dbConfig.php on line 9
+[20-Oct-2019 18:00:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[20-Oct-2019 18:00:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[20-Oct-2019 18:20:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[20-Oct-2019 18:20:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[20-Oct-2019 18:27:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mirajkhan/public_html/dbConfig.php on line 9
+[20-Oct-2019 18:27:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mirajkhan/public_html/dbConfig.php on line 9
+[20-Oct-2019 18:28:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mirajkhan/public_html/dbConfig.php on line 9
+[20-Oct-2019 18:28:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[20-Oct-2019 18:28:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[20-Oct-2019 18:28:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mirajkhan/public_html/dbConfig.php on line 9
+[20-Oct-2019 18:51:07 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/mirajkhan/public_html/footer.php on line 57
+[21-Oct-2019 03:09:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[21-Oct-2019 03:09:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[21-Oct-2019 03:54:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[21-Oct-2019 03:54:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[23-Oct-2019 04:12:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[23-Oct-2019 04:12:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[23-Oct-2019 04:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[23-Oct-2019 04:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[25-Oct-2019 18:07:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[25-Oct-2019 18:07:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[26-Oct-2019 05:50:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[26-Oct-2019 05:50:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[26-Oct-2019 08:02:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[26-Oct-2019 08:02:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[26-Oct-2019 15:16:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[26-Oct-2019 15:16:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[26-Oct-2019 23:02:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[26-Oct-2019 23:02:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[27-Oct-2019 00:43:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[27-Oct-2019 00:43:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[27-Oct-2019 09:57:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[27-Oct-2019 09:57:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[01-Nov-2019 01:39:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[01-Nov-2019 01:39:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[02-Nov-2019 02:00:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[02-Nov-2019 02:00:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[02-Nov-2019 13:54:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[02-Nov-2019 13:54:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[02-Nov-2019 16:04:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[02-Nov-2019 16:04:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[03-Nov-2019 05:26:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[03-Nov-2019 05:26:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[05-Nov-2019 11:04:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[05-Nov-2019 11:04:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
+[08-Nov-2019 17:28:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 212
+[08-Nov-2019 17:28:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirajkhan/public_html/provider_form.php on line 247
